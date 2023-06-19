@@ -33,3 +33,4 @@ Roi Francisco - Instructor
 <br>John Rey B. Calandria
 <br>Axel Iverson L. Ruiz
 <br>Rendell Arevalo
+<br>Renalyn C. Hermosa
